@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Charisma here! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=jolly)
 
