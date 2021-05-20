@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **ckcherry23/ckcherry23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
