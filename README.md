@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=jolly&title_color=white&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=jolly&title_color=#000000&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=jolly&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
