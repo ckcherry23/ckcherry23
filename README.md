@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Charisma!  
 
-I am currently in year 2 studying Computer Science at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
+I am currently a year 2 student of Computer Science at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
