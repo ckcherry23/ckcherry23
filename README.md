@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Charisma!  
 
+[![Github](https://img.shields.io/github/followers/ckcherry23?label=Follow&style=social)](https://github.com/ckcherry23)
+![](https://visitor-badge.laobi.icu/badge?page_id=ckcherry23.ckcherry23)
+
 I am currently a year 2 student of Computer Science at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
