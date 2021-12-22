@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/ckcherry23?label=Follow&style=social)](https://github.com/ckcherry23)
 ![](https://visitor-badge.laobi.icu/badge?page_id=ckcherry23.ckcherry23)
+![Profile views](https://gpvc.arturio.dev/ckcherry23)  
 
 I am currently a year 2 student of Computer Science at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives!
 
