@@ -12,11 +12,11 @@ I am currently a year 2 Computer Science student at the National University of S
 Feel free to connect with me if you have any interesting projects you would like me to be a part of!
 
 <p align="center">
- <a href="https://ckcherry23.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://icon-library.com/images/65b3db429c_64716.png" title="Personal Website" alt="Personal Website" height="40" style="vertical-align:top; margin:4px"></a>   
- <a href="https://linkedin.com/in/charisma-kausar/" target="_blank" rel="noopener noreferrer"> <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" title="LinkedIn" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:charisma.kausar@u.nus.edu"> <img src="https://www.pikpng.com/pngl/b/194-1942846_mail-circle-icon-png-clipart.png" title="Email" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://medium.com/@charismakausar"> <img src="https://pbs.twimg.com/profile_images/1316412044959252482/3EZR8AKp_400x400.jpg" title="Medium" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://twitter.com/CkCherry23"> <img src="https://brandlogos.net/wp-content/uploads/2015/11/twitter-logo.png" title="Twitter" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://ckcherry23.github.io/" target="_blank"> <img src="https://icon-library.com/images/65b3db429c_64716.png" title="Personal Website" alt="Personal Website" height="40" style="vertical-align:top; margin:4px"></a>   
+ <a href="https://linkedin.com/in/charisma-kausar/" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" title="LinkedIn" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:charisma.kausar@u.nus.edu" target="_blank"> <img src="https://www.pikpng.com/pngl/b/194-1942846_mail-circle-icon-png-clipart.png" title="Email" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://medium.com/@charismakausar" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1316412044959252482/3EZR8AKp_400x400.jpg" title="Medium" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://twitter.com/CkCherry23" target="_blank"> <img src="https://brandlogos.net/wp-content/uploads/2015/11/twitter-logo.png" title="Twitter" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
