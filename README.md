@@ -30,11 +30,12 @@ Feel free to connect with me if you have any interesting projects you would like
 <img src="https://logosvector.net/wp-content/uploads/2015/07/JavaScript_logo.png" alt="Javascript" title="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" title="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/08/vuejs-logo-freelogovectors.net_.png" alt="Vue.js" title="Vue.js" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" title="HTML" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://logodix.com/logo/1111652.png" alt="CSS" title="CSS" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" alt="Figma" title="Figma" height="40" style="vertical-align:top; margin:4px">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" title="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" title="HTML" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://logodix.com/logo/1111652.png" alt="CSS" title="CSS" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="Sass" title="Sass" height="40" style="vertical-align:top; margin:4px"> 
 </p>
 <!--
 **ckcherry23/ckcherry23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![image](https://user-images.githubusercontent.com/68203159/147138753-5bd23acb-1cb5-4d36-a337-41554d1938e5.png)
