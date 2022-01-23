@@ -7,6 +7,8 @@ I am currently a year 2 Computer Science student at the National University of S
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ## ✉️ Find me on:
 
 Feel free to connect with me if you have any interesting projects you would like me to be a part of!
