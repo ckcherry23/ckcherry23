@@ -4,10 +4,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ckcherry23.ckcherry23) 
 
 I am currently a year 2 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
-
-![Anurag's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
-
-[![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![Charisma's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
 ## ✉️ Find me on:
 
@@ -41,6 +39,9 @@ Feel free to connect with me if you have any interesting tech projects you would
 <img src="https://logodix.com/logo/1111652.png" alt="CSS" title="CSS" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="Sass" title="Sass" height="40" style="vertical-align:top; margin:4px"> 
 </p>
+
+<!-- ![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true) -->
+
 <!--
 **ckcherry23/ckcherry23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![image](https://user-images.githubusercontent.com/68203159/147138753-5bd23acb-1cb5-4d36-a337-41554d1938e5.png)
 
