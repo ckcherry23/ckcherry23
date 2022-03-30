@@ -5,9 +5,9 @@
 
 I am currently a year 2 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✉️ Find me on:
 
