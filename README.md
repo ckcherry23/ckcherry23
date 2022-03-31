@@ -30,7 +30,7 @@ Feel free to connect with me if you have any interesting tech projects you would
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutterlogo_R1LGRU0.png" alt="Flutter" title="Flutter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logosvector.net/wp-content/uploads/2015/07/JavaScript_logo.png" alt="Javascript" title="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" title="Node.js" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/08/vuejs-logo-freelogovectors.net_.png" alt="Vue.js" title="Vue.js" height="40" style="vertical-align:top; margin:4px">
+<img src="https://vuejs.org/images/logo.png" alt="Vue.js" title="Vue.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" title="React.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" alt="Figma" title="Figma" height="40" style="vertical-align:top; margin:4px">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" title="Git" height="40" style="vertical-align:top; margin:4px">
