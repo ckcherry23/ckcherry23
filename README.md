@@ -32,6 +32,7 @@ Feel free to connect with me if you have any interesting tech projects you would
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" title="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://vuejs.org/images/logo.png" alt="Vue.js" title="Vue.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" title="React.js" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" title="PostgreSQL" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" alt="Figma" title="Figma" height="40" style="vertical-align:top; margin:4px">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" title="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code" height="40" style="vertical-align:top; margin:4px">
