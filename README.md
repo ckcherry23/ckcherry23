@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/ckcherry23?label=Follow&style=social)](https://github.com/ckcherry23)
 ![](https://visitor-badge.laobi.icu/badge?page_id=ckcherry23.ckcherry23) 
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="20.5" width="87"></a>
+<a href="https://www.buymeacoffee.com/charismakausar" target="_blank"><img src="bmc-button.png" alt="Buy Me A Coffee" height="30" ></a>
 
 I am currently a year 2 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
  
