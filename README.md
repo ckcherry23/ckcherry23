@@ -28,6 +28,7 @@ Feel free to connect with me if you have any interesting tech projects you would
 <p align="center">
 <img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" alt="Java" title="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" alt="C#" title="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutterlogo_R1LGRU0.png" alt="Flutter" title="Flutter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logosvector.net/wp-content/uploads/2015/07/JavaScript_logo.png" alt="Javascript" title="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" title="Node.js" height="40" style="vertical-align:top; margin:4px">
