@@ -5,6 +5,11 @@
 <a href="https://www.buymeacoffee.com/charismakausar" target="_blank"><img src="bmc-button.png" alt="Buy Me A Coffee" height="30" ></a>
 
 I am currently a year 2 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
+
+* 🤖 Software Engineering Intern @ Makino Asia Group
+* 👩🏽‍💻 Orbital advisor @ NUS 
+* 📖 Developer for MWS Resource Dashboard @ Tech-For-Good CCSGP Project
+* 🚀 Deputy Director of Project Management @ StartIT - NUS Technopreneurship Society
  
 ![Charisma's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
