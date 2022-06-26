@@ -6,7 +6,7 @@
 
 I am currently a year 2 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
 
-* 🤖 Software Engineering Intern @ Makino Asia Group
+* ⚙️ Software Engineering Intern @ Makino Asia Group
 * 👩🏽‍💻 Orbital advisor @ NUS 
 * 📖 Developer for MWS Resource Dashboard @ Tech-For-Good CCSGP Project
 * 🚀 Deputy Director of Project Management @ StartIT - NUS Technopreneurship Society
