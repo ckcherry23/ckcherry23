@@ -9,7 +9,7 @@ I am currently a year 3 Computer Science student at the National University of S
 * ⚙️ Software Engineering Intern @ Makino Asia Group
 * 👩🏽‍💻 Teaching Assistant @ NUS 
 * 📖 Developer for MWS Resource Dashboard @ Tech-For-Good CCSGP Project
-* 🚀 Deputy Director of Project Management @ StartIT - NUS Technopreneurship Society
+* 🚀 Deputy Director of Project Management @ StartIT - NUS Computing Technopreneurship Society
  
 ![Charisma's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
