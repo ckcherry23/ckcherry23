@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ckcherry23.ckcherry23) 
 <!--<a href="https://www.buymeacoffee.com/charismakausar" target="_blank"><img src="bmc-button.png" alt="Buy Me A Coffee" height="30" align="right"></a>-->
 
-I am currently a year 3 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
+I am a year 3 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
 
 * 👩🏽‍💻 Teaching Assistant @ NUS 
 * 📖 Developer for MWS Resource Dashboard @ Tech-For-Good CCSGP Project
