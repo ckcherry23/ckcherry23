@@ -29,7 +29,8 @@ Feel free to connect with me if you have any interesting tech projects you would
 
 ## 🧰 Languages and Tools:
 
-<p align="center">
+![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true)
+<p align="">
 <img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" alt="Java" title="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" alt="C#" title="C#" height="40" style="vertical-align:top; margin:4px">
@@ -47,7 +48,6 @@ Feel free to connect with me if you have any interesting tech projects you would
 <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="Sass" title="Sass" height="40" style="vertical-align:top; margin:4px"> 
 </p>
 
-<!-- ![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true) -->
 
 <!--
 **ckcherry23/ckcherry23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![image](https://user-images.githubusercontent.com/68203159/147138753-5bd23acb-1cb5-4d36-a337-41554d1938e5.png)
