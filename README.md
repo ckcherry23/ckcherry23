@@ -29,8 +29,9 @@ Feel free to connect with me if you have any interesting tech projects you would
 
 ## 🧰 Languages and Tools:
 
-![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true)
-<p align="">
+<!--![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true)-->
+
+<p align="center">
 <img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" alt="Java" title="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" alt="C#" title="C#" height="40" style="vertical-align:top; margin:4px">
