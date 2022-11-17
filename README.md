@@ -16,6 +16,8 @@ I am a year 3 Computer Science student at the National University of Singapore (
 
 Feel free to connect with me if you have any interesting tech projects you would like me to be a part of!
 
+ ![twitter](https://user-images.githubusercontent.com/68203159/202503350-e7a1de15-a030-4571-8e90-aeae11fb60a6.svg)
+ 
 <p align="center">
 <a href="https://ckcherry23.github.io/" target="_blank"> <img src="https://icon-library.com/images/65b3db429c_64716.png" title="Personal Website" alt="Personal Website" height="40" style="vertical-align:top; margin:4px"></a>   
 <a href="https://linkedin.com/in/charisma-kausar/" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" title="LinkedIn" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
