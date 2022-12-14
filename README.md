@@ -7,7 +7,6 @@
 I am a year 3 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
 
 * 👩🏽‍💻 Teaching Assistant @ NUS 
-* 📖 Developer for MWS Resource Dashboard @ Tech-For-Good CCSGP Project
 * 🚀 Deputy Director of Project Management @ StartIT - NUS Computing Technopreneurship Society
  
 ![Charisma's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
@@ -45,7 +44,6 @@ Feel free to connect with me if you have any interesting tech projects you would
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" title="HTML" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://logodix.com/logo/1111652.png" alt="CSS" title="CSS" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="Sass" title="Sass" height="40" style="vertical-align:top; margin:4px"> 
 </p>
 
 
