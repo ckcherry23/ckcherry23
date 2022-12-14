@@ -8,6 +8,7 @@ I am a year 3 Computer Science student at the National University of Singapore (
 
 * 👩🏽‍💻 Teaching Assistant @ NUS 
 * 🚀 Deputy Director of Project Management @ StartIT - NUS Computing Technopreneurship Society
+* 📊 Upcoming Engineering Intern at Virtu Financial and Spenmo
  
 ![Charisma's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
