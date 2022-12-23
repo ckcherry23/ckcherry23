@@ -5,16 +5,20 @@
 <!--<a href="https://www.buymeacoffee.com/charismakausar" target="_blank"><img src="bmc-button.png" alt="Buy Me A Coffee" height="30" align="right"></a>-->
 
 I am a year 3 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
-
-* 👩🏽‍💻 Teaching Assistant @ NUS 
+* 🎓 Teaching Assistant @ NUS 
 * 🚀 Deputy Director of Project Management @ StartIT - NUS Computing Technopreneurship Society
-* 📊 Upcoming Engineering Intern at Spenmo and Wintern at Virtu Financial
+* 💻 Upcoming Engineering Intern at Spenmo and Wintern at Virtu Financial
  
 ![Charisma's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
 ## ✉️ Find me on:
 
 Feel free to connect with me if you have any interesting tech projects you would like me to be a part of!
+<!-- * 🌐 Find out more on my [personal website](https://ckcherry23.github.io/)
+* 💼 Connect with me on [LinkedIn](https://linkedin.com/in/charisma-kausar/)
+* ✉️ Send me an [email](mailto:charisma.kausar@u.nus.edu)
+* ✍🏼 Read my stories on [Medium](https://medium.com/@charismakausar)
+* 🐥 Tweet at me on [Twitter](https://twitter.com/CkCherry23) -->
 <p align="center">
 <a href="https://ckcherry23.github.io/" target="_blank"> <img src="https://icon-library.com/images/65b3db429c_64716.png" title="Personal Website" alt="Personal Website" height="40" style="vertical-align:top; margin:4px"></a>   
 <a href="https://linkedin.com/in/charisma-kausar/" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" title="LinkedIn" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
