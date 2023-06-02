@@ -8,12 +8,12 @@ I am a year 4 Computer Science student at the National University of Singapore (
 * 💻 Software Engineering Intern at Quantum Inventions
 * 🎓 Teaching Assistant @ NUS 
 * 🔓 Looking to contribute to open-source!
- 
-![Charisma's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
+
+![Charisma's GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
 ## 🧰 Languages and Tools:
 
-<!--![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true)-->
+<!-- ![Top Langs](https://github-readme-stats-fork-gules.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true) -->
 
 <p align="center">
 <img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" alt="Java" title="Java" height="40" style="vertical-align:top; margin:4px">
