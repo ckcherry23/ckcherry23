@@ -6,8 +6,8 @@
 <!--<a href="https://www.buymeacoffee.com/charismakausar" target="_blank"><img src="bmc-button.png" alt="Buy Me A Coffee" height="30" align="right"></a>-->
 
 I am a year 4 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
-* 💻 Software Engineering Intern at Quantum Inventions
-* 🎓 Teaching Assistant @ NUS 
+* 💻 Software Engineering Intern
+* 🎓 Teaching Assistant @ NUS
 * 🔓 Looking to contribute to open-source!
 
 ![Charisma's GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
