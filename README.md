@@ -6,7 +6,7 @@
 <!--<a href="https://www.buymeacoffee.com/charismakausar" target="_blank"><img src="bmc-button.png" alt="Buy Me A Coffee" height="30" align="right"></a>-->
 
 I am a year 4 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
-* 💻 Frontend Lead at Google Developer Student Clubs
+* 💻 Frontend Lead at Google Developer Student Club
 * 🎓 Teaching Assistant @ NUS
 * 🔓 Looking to contribute to open-source!
 
