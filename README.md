@@ -17,15 +17,15 @@ I am a year 4 Computer Science student at the National University of Singapore (
 <!-- ![Top Langs](https://github-readme-stats-fork-gules.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true) -->
 
 <p align="center">
-<img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" alt="Java" title="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logosvector.net/wp-content/uploads/2015/07/JavaScript_logo.png" alt="Javascript" title="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" alt="Swift" title="Swift" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png" alt="Python" title="Python" height="40" style="vertical-align:top; margin:4px">
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" alt="C#" title="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" title="HTML" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://logodix.com/logo/1111652.png" alt="CSS" title="CSS" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" alt="Java" title="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" alt="C#" title="C#" height="40" style="vertical-align:top; margin:4px">
+
 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" title="React.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://vuejs.org/images/logo.png" alt="Vue.js" title="Vue.js" height="40" style="vertical-align:top; margin:4px">
