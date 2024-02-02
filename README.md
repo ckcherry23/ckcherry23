@@ -17,7 +17,8 @@ I am a year 4 Computer Science student at the National University of Singapore (
 <!-- ![Top Langs](https://github-readme-stats-fork-gules.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=dark&langs_count=10&count_private=true&hide_border=true) -->
 
 <p align="center">
-<img src="https://logosvector.net/wp-content/uploads/2015/07/JavaScript_logo.png" alt="Javascript" title="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="TypeScript" title="TypeScript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" title="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" alt="Swift" title="Swift" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png" alt="Python" title="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" title="HTML" height="40" style="vertical-align:top; margin:4px"> 
