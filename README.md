@@ -6,9 +6,9 @@
 <!--<a href="https://www.buymeacoffee.com/charismakausar" target="_blank"><img src="bmc-button.png" alt="Buy Me A Coffee" height="30" align="right"></a>-->
 
 I am a year 4 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
-* 💻 Frontend Lead at Google Developer Student Club
-* 🎓 Teaching Assistant @ NUS
-* 🔓 Looking to contribute to open-source!
+* 💻 Frontend Lead Software Engineer at [Google Developer Student Club](https://github.com/GDSC-NUS)
+* 🎓 Teaching Assistant at NUS Computing
+* 🔓 Co-Lead Developer for NUS open-source project [RepoSense](https://github.com/reposense/RepoSense)
 
 ![Charisma's GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
