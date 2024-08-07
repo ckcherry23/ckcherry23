@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/ckcherry23?label=Follow&style=social)](https://github.com/ckcherry23)
 [![wakatime](https://wakatime.com/badge/user/8049a562-8d10-42c8-b3fe-33ef24f32f7c.svg)](https://wakatime.com/@8049a562-8d10-42c8-b3fe-33ef24f32f7c)
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=ckcherry23.ckcherry23)-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ckcherry23.ckcherry23)
 <!--<a href="https://www.buymeacoffee.com/charismakausar" target="_blank"><img src="bmc-button.png" alt="Buy Me A Coffee" height="30" align="right"></a>-->
 
 I am a year 4 Computer Science student at the National University of Singapore (NUS). I love working on software projects that make a positive difference in people's lives and have user-friendly designs!
