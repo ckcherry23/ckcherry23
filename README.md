@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/8049a562-8d10-42c8-b3fe-33ef24f32f7c.svg)](https://wakatime.com/@8049a562-8d10-42c8-b3fe-33ef24f32f7c)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ckcherry23.ckcherry23)
 
-Recently graduated from NUS Computer Science and started my engineering journey at @Mobbin in the Product Team.
+I recently graduated from NUS Computer Science and started my engineering journey at Mobbin in the Product Team.
 
 ![Charisma's GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=swift&hide_border=true)
 <!-- [![Charisma's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ckcherry23)](https://github.com/anuraghazra/github-readme-stats) -->
