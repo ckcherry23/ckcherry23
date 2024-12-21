@@ -6,6 +6,6 @@
 
 I recently graduated from NUS Computer Science and am now working on [mobbin.com](https://mobbin.com/browse/ios/apps)!
 
-![Charisma's GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=shadow_blue&text_color=aaaaaa&icon_color=00779A&border_color=00779A&bg_color=ffffff1a&hide_border=true&rank_icon=percentile)
+![Charisma's GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=ckcherry23&count_private=true&show_icons=true&theme=shadow_blue&text_color=888888&icon_color=00779A&border_color=00779A&bg_color=8888881a&hide_border=true&rank_icon=percentile)
 <!-- [![Charisma's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ckcherry23)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats-fork-gules.vercel.app/api/top-langs/?username=ckcherry23&layout=compact&theme=rose&langs_count=10&count_private=true&hide_border=true) -->
